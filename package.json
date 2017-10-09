@@ -1,0 +1,27 @@
+{
+  "name": "guess-root-path",
+  "version": "1.0.0",
+  "description": "Guess the root path of a project",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nathanhoad/guess-root-path.git"
+  },
+  "keywords": [
+    "root",
+    "path"
+  ],
+  "author": "Nathan Hoad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathanhoad/guess-root-path/issues"
+  },
+  "homepage": "https://github.com/nathanhoad/guess-root-path#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^21.2.1"
+  }
+}
